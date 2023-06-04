@@ -51,7 +51,6 @@ export const SliderLayout: React.FC<LayoutProps> = (props) => {
         background: design.colors.background,
       }}
     >
-      <Omf />
       {/* eslint-disable-next-line @typescript-eslint/no-unsafe-member-access */}
       <Swiper
         height={height}
